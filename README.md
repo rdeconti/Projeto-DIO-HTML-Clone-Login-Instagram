@@ -1,9 +1,9 @@
-<<<<<<< HEAD
 :spiral_calendar: Atualizado em 10 de Março de 2021 :heart:
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
-# Bootcamp DIO HTML WEB DEVELOPER Projeto 01 - Recriando a página inicial do Instagram
+# Bootcamp DIO HTML WEB DEVELOPER 
+# Projeto 01 - Recriando a página inicial do Instagram
 Este projeto foi proposto pela Digital Innovation One no Bootcamp HTML WEB Developer.
 Link do código original: https://github.com/SpruceGabriela/instagram-dio
 
@@ -14,8 +14,4 @@ Recriar a interface de login do Instagram com CSS e HTML - utilizando Flexbox!
 - Arredondar a foto do perfil
 
 # Exemplos de telas
-=======
-# Bootcamp-DIO-Html-Web-Projeto01
-
-Recriando a interface de login do Instagram com CSS e HTML.
->>>>>>> 0afb0b167303c8702bb7a43842e68d3415d7708d
+<img src="https://github.com/rdeconti/Bootcamp-DIO-Html-Web-Projeto01/blob/main/README.jpg" />
